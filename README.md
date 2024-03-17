@@ -2,7 +2,7 @@
 
 ## Overview
 
-- an iOS mobile application designed to provide users with real-time weather information for different locations.
+- An iOS mobile application designed to provide users with real-time weather information for different locations.
 - The app utilizes the OpenWeatherMap API to fetch weather data and demonstrates various IOS development concepts
 - Including UI design, API integration (URL Session) , MVC Architicure , Core Location 
 
@@ -30,6 +30,8 @@
 # Technologies Used:
 - Swift
 - UIKit
+- Auto Layout
 - URL Session
 - Core Location
+
 
